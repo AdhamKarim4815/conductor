@@ -1,0 +1,17 @@
+{
+  "name": "conductor",
+  "version": "0.2.0",
+  "description": "A master Claude that turns plain requests into expert briefs and hands them to specialist helpers on Haiku, Sonnet and Opus at the right effort.",
+  "author": {
+    "name": "Adham Abdelnaby"
+  },
+  "keywords": [
+    "orchestrator",
+    "subagents",
+    "prompting",
+    "study",
+    "research",
+    "writing"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "adham-plugins",
+  "owner": { "name": "Adham Abdelnaby" },
+  "plugins": [
+    {
+      "name": "conductor",
+      "source": "./",
+      "description": "A master Claude that interviews, writes expert briefs and routes work to helpers on Haiku, Sonnet and Opus."
+    }
+  ]
+}
